@@ -1,0 +1,8 @@
+.my-unique-plugin-wrapper-class {
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+}
+.ww{
+  width: 1200px !important;
+}
